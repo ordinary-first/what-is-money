@@ -1,6 +1,10 @@
 # Unified Dynamics of Money
 
 **Author:** ordinaryX
+**© 2026 ordinaryX.** Licensed under [CC BY 4.0](./LICENSE).
+**First published on GitHub:** 2026-04-15. Canonical URL: https://github.com/ordinary-first/what-is-money
+
+---
 
 A theoretical monograph on the nature of money as an emergent phenomenon. The theory defines money not as an object with properties but as a social accounting ledger that emerges when *Homo sapiens* exceeds Dunbar's number (~150). Two permeating principles drive the full framework: (1) the value of money is determined by accumulated sunk cost, and (2) the unresolvable structural conflict between preservation force and coordination force drives the entire monetary life cycle — adoption, stability, crisis, collapse, transition.
 
